@@ -23,8 +23,9 @@ const Footer = () => {
               Address
             </h5>
             <p data-aos="zoom-in">
-              <FaMapMarkerAlt className="me-2" /> 40, Bhumi Society, Dabholi Road,
-              Katargam, Surat, Gujarat 395004
+              <FaMapMarkerAlt className="me-2" />
+              Office No.- 222, Shivalik, Bhumipark Society, Dabholi Village, Katargam
+              Surat, Gujarat 395004
             </p>
             <p data-aos="zoom-in">
               <FaPhoneAlt className="me-2" /> +91 8866716108
@@ -90,42 +91,48 @@ const Footer = () => {
               <Nav.Link
                 data-aos="zoom-in"
                 className="text-light"
-                 href="/WebDesignWebDevelopment" onClick={() => history.push("/WebDesignWebDevelopment")}
+                href="/WebDesignWebDevelopment"
+                onClick={() => history.push("/WebDesignWebDevelopment")}
               >
                 Web Development
               </Nav.Link>
               <Nav.Link
                 data-aos="zoom-in"
                 className="text-light"
-                 href="/MobileAppDevelopment" onClick={() => history.push("/MobileAppDevelopment")}
+                href="/MobileAppDevelopment"
+                onClick={() => history.push("/MobileAppDevelopment")}
               >
                 Mobile App Development
               </Nav.Link>
               <Nav.Link
                 data-aos="zoom-in"
                 className="text-light"
-                 href="/UiUx" onClick={() => history.push("/UiUx")}
+                href="/UiUx"
+                onClick={() => history.push("/UiUx")}
               >
                 UI/UX Design
               </Nav.Link>
               <Nav.Link
                 data-aos="zoom-in"
                 className="text-light"
-                 href="/GameDevelopment" onClick={() => history.push("/GameDevelopment")}
+                href="/GameDevelopment"
+                onClick={() => history.push("/GameDevelopment")}
               >
                 Game Development
               </Nav.Link>
               <Nav.Link
                 data-aos="zoom-in"
                 className="text-light"
-                href="/CyberSecurity" onClick={() => history.push("/CyberSecurity")}
+                href="/CyberSecurity"
+                onClick={() => history.push("/CyberSecurity")}
               >
                 Cyber Security (VAPT)
               </Nav.Link>
               <Nav.Link
                 data-aos="zoom-in"
                 className="text-light"
-                href="/DigitalMarketing" onClick={() => history.push("/DigitalMarketing")}
+                href="/DigitalMarketing"
+                onClick={() => history.push("/DigitalMarketing")}
               >
                 Digital Marketing
               </Nav.Link>
@@ -144,16 +151,32 @@ const Footer = () => {
               <Nav.Link data-aos="zoom-in" className="text-light" href="/about">
                 About Us
               </Nav.Link>
-              <Nav.Link data-aos="zoom-in" className="text-light" href="/services">
+              <Nav.Link
+                data-aos="zoom-in"
+                className="text-light"
+                href="/services"
+              >
                 Services
               </Nav.Link>
-              <Nav.Link data-aos="zoom-in" className="text-light" href="/Technologylanguage">
+              <Nav.Link
+                data-aos="zoom-in"
+                className="text-light"
+                href="/Technologylanguage"
+              >
                 T & L
               </Nav.Link>
-              <Nav.Link data-aos="zoom-in" className="text-light" href="/careers">
+              <Nav.Link
+                data-aos="zoom-in"
+                className="text-light"
+                href="/careers"
+              >
                 Careers
               </Nav.Link>
-              <Nav.Link data-aos="zoom-in" className="text-light" href="/Contect">
+              <Nav.Link
+                data-aos="zoom-in"
+                className="text-light"
+                href="/Contect"
+              >
                 Contact
               </Nav.Link>
             </Nav>
@@ -167,15 +190,21 @@ const Footer = () => {
             <p data-aos="zoom-in" className="mb-1">
               Monday - Friday
             </p>
-            <h6 data-aos="zoom-in" className="text-light">09:00 am - 07:00 pm</h6>
+            <h6 data-aos="zoom-in" className="text-light">
+              09:00 am - 07:00 pm
+            </h6>
             <p data-aos="zoom-in" className="mb-1">
               Saturday
             </p>
-            <h6 data-aos="zoom-in" className="text-light">09:00 am - 05:00 pm</h6>
+            <h6 data-aos="zoom-in" className="text-light">
+              09:00 am - 05:00 pm
+            </h6>
             <p data-aos="zoom-in" className="mb-1">
               Sunday
             </p>
-            <h6 data-aos="zoom-in" className="text-light">Closed</h6>
+            <h6 data-aos="zoom-in" className="text-light">
+              Closed
+            </h6>
           </Col>
         </Row>
 
