@@ -79,12 +79,12 @@ const handleSubmit = async (e) => {
           <Container>
             <Row>
               <Col>
-                <h1 data-aos="zoom-in" className="text">Contect</h1>
+                <h1 data-aos="zoom-in" className="text">Contact</h1>
                 <button data-aos="zoom-in" className="about-a" onClick={() => history.push("/")}>
                   Home
                 </button>
                 <button data-aos="zoom-in" className="about-a">/</button>
-                <button data-aos="zoom-in" className="about-a">Contect</button>
+                <button data-aos="zoom-in" className="about-a">Contact</button>
               </Col>
             </Row>
           </Container>
